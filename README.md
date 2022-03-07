@@ -1,6 +1,8 @@
 riker cli-wrapper
 =================
 
+[![Unsupported](https://img.shields.io/badge/Pantheon-Unsupported-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unsupported)
+
 A wrapper for converting any app into a Redshirt bot
 
 The riker cli-wrapper provides a method for making any command line app or script
